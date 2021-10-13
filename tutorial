@@ -1,0 +1,9 @@
+Tumx installation tutorial.
+After downloading Tumx create a new folder and put Tumx in it.
+Then create a new file called "tokens.txt" and put all your tokens to the file like this :
+token1
+token2
+token3
+etc.
+If you did it right it should be working fine.
+
